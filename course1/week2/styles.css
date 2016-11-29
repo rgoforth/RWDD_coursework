@@ -1,0 +1,10 @@
+/* Displays h1 element with a right alignment. */
+h1 {
+    text-align: right; 
+}
+
+/* When user hovers over the area of the heading element it will display a blue background and display a gray text color. */
+h1:hover {
+    background: blue;
+    color: #777; /* This a shorthanded hex color code */
+}
